@@ -1,0 +1,7 @@
+help,help
+quit,quit
+g-sogDK,general.sogDK.fire
+g-sixDK,general.sixDK.fire
+mlb-fppL10,mlb.fppL10.fire
+nfl-prsDK,nfl.prsDK.fire
+t-tsoDK,tennis.tsoDK.fire

@@ -1,0 +1,45 @@
+SPORTS BETTING
+-----------------------------------
+General
+NFL
+MLB
+NBA
+NCAAF
+NCAAB
+Tennis
+Soccer
+
+FANTASY OPTIMIZATION
+-----------------------------------
++-= General =-+
+
+   - g-sogDK - Generic 5-Player Showdown Captain Optimizer (DraftKings)
+	:: Optimizer for any 5-Player Showdown Captain slate. Loads directly from DraftKings data in DKSalaries.csv. Save DKSalaries.csv directly to the general directory.
+
+   - g-sixDK
+	:: Optimizer for any generic 6-Player slate. Loads directly from DraftKings data in DKSalaries.csv. Save DKSalaries.csv directly to the general directory.
+
++-= NFL =-+
+
+   - nfl-prsDK- NFL Power Ratings Sim (DraftKings)
+	:: Downloads a specific amount of matches in order from DraftKings. Runs power rating sims and gives win percentage edge based on the book odds. Runs in order-- so if you want all 13 of today's games but none of tomorrow's games you would tell the script to iterate 13 times.
+
++-= MLB =-+
+
+   - mlb-fppL10 - MLB FantasyPros Projections
+	:: Takes slate data from DailyFantasyFuel (which contains L10 averages) and converts that to projections for upload onto FantasyPros.
+
++-= NBA =-+
+
++-= NCAAF =-+
+
++-= NCAAB =-+
+
++-= Tennis =-+
+
+   - t-tsoDK- Tennis Short Slate Optimizer (DraftKings)
+	:: Loads a tennis slate (short) directly from DraftKings and optimizes one lineup. Save DKSalaries.csv directly to the tennis directory.
+Soccer
+
+MISCELLANEOUS
+-----------------------------------

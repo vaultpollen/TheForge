@@ -3,4 +3,4 @@ TheForge is meant to be an all-in-one dashboard with which a user can play aroun
 I am slowly repurposing what was at first proprietary code to be open source.
 
 Will add in depth instructions on how to use the packages and functions once it is fleshed out. This is all hardcore arcane spaghetti code. 
-Fair warning. I am not a clasically trained developer. 
+Fair warning. I am not a classically trained developer. 
